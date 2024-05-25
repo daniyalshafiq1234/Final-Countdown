@@ -1,1 +1,1 @@
-Link for website: https://master--finalcountdownbydaniyal.netlify.app/
+Link for website: https://finalcountdownbydaniyal.netlify.app/
